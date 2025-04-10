@@ -34,4 +34,3 @@ I love blending hardware and software to solve unique challenges — from automa
 
 ---
 
-Let me know if you'd like to add badges, stats, or links to your projects to make it even more dynamic!
