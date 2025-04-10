@@ -23,7 +23,7 @@ I'm an Electrical and Computer Engineer with a strong focus on building practica
 
 ## 📫 How to Reach Me:
 - GitHub: [@minte-atnafu](https://github.com/minte-atnafu)
-- LinkedIn: [linkedin.com/in/minteatnafu](https://linkedin.com/in/minteatnafu)
+- LinkedIn: [linkedin.com/in/minteatnafu](https://www.linkedin.com/in/mintesinot-atnafu/)
 - Email: mintesinot.atnafu[at]gmail.com
 
 ## 😄 Pronouns:
