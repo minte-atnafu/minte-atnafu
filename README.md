@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Minte Atnafu ([@minte-atnafu](https://github.com/minte-atnafu))
+# 👋 Hi there, I’m Mintesinot  Atnafu ([@minte-atnafu](https://github.com/minte-atnafu))
 
 ## 👨‍💻 About Me
 I'm an Electrical and Computer Engineer with a strong focus on building practical and impactful tech solutions. My work spans full-stack web development, intelligent systems, drone technology, and embedded systems.
@@ -24,7 +24,7 @@ I'm an Electrical and Computer Engineer with a strong focus on building practica
 ## 📫 How to Reach Me:
 - GitHub: [@minte-atnafu](https://github.com/minte-atnafu)
 - LinkedIn: [linkedin.com/in/minteatnafu](https://www.linkedin.com/in/mintesinot-atnafu/)
-- Email: mintesinot.atnafu[at]gmail.com
+- Email: mintesinotatnafu81@gmail.com
 
 ## 😄 Pronouns:
 He / Him
